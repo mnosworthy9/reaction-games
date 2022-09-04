@@ -12,7 +12,7 @@ java swing gui games to test reactions
 4. add module dependency to postgresql-xx.x.x.jar (File > Project structure > Modules > + > JAR or Directories > postgresql-43.5.0.jar)
 5. create data source 
   - View > Tool Window > Database
-  - + (add new) > Data source > PostgresSQL > fill in details 
+  - add new > Data source > PostgresSQL > fill in details 
 6. click on the Postgresql Driver in the data source page
   - remove the current driver files
   - add a new driver file
