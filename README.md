@@ -3,7 +3,7 @@ java swing gui games to test reactions
 
 
 ## Create postgreSQL Database 
-1. download pgadmin 4
+1. download pgadmin 4 [here](https://www.pgadmin.org/download/)
   - create new database
   - assign user to database
   
