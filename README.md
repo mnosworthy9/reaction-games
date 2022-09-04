@@ -7,7 +7,7 @@ java swing gui games to test reactions
   - create new database
   - assign user to database
   
-2. download driver for PostgreSql from [a link](https://jdbc.postgresql.org/download.html)
+2. download driver for PostgreSql from [PostgreSQL Driver](https://jdbc.postgresql.org/download.html)
 3. download java 18 if required 
 4. add module dependency to postgresql-xx.x.x.jar (File > Project structure > Modules > + > JAR or Directories > postgresql-43.5.0.jar)
 5. create data source 
